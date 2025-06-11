@@ -1,4 +1,5 @@
-# PalestraSQLThis project focuses on the design, implementation, and population of a relational database for managing a gym and its associated services. Developed using SQL and a relational database management system (RDBMS), the project provides a comprehensive data model that supports key operations including:
+# PalestraSQL
+This project focuses on the design, implementation, and population of a relational database for managing a gym and its associated services. Developed using SQL and a relational database management system (RDBMS), the project provides a comprehensive data model that supports key operations including:
 
 - Member management, including athletes, their personal profiles, training programs, and nutrition plans.
 
